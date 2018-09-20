@@ -1,0 +1,20 @@
+{
+  "name": "Babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Prashant Lathiya",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "cowsay": "^1.3.1",
+    "node-fetch": "^2.2.0"
+  },
+  "description": ""
+}
